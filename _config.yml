@@ -94,7 +94,7 @@ since: 2017
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: false
+copyright: true
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -320,7 +320,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
+  wordcount: true
   min2read: false
   separated_meta: true
 
@@ -332,7 +332,7 @@ wechat_subscriber:
 
 # Declare license on posts
 post_copyright:
-  enable: true
+  enable: false
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 

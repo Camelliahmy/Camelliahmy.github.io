@@ -12,21 +12,13 @@ photos:
 - /assets/images/gallery/2017-9-30-6.jpg
 tags:
 - 时光
+- 大逗相声
 description: 路过风景
 ---
 
-<table><tr>
-<td><img src="/assets/images/gallery/2017-9-30-7.jpg" border=0></td>
-<td><img src="/assets/images/gallery/2017-9-30-8.jpg" border=0></td>
-</tr></table>
--![](/assets/images/gallery/2017-9-30-7.jpg)
--![](/assets/images/gallery/2017-9-30-8.jpg)
+<div align="left" margin = "100">
+    <img src="/assets/images/gallery/2017-9-30-7.jpg" style="float:left" align="left" width="50%"> 
+    <img src="/assets/images/gallery/2017-9-30-8.jpg" style="float:left" align="left" width="50%">  
+</div>
 
-
-
-
-
-
-
-
-
+   

@@ -6,9 +6,9 @@ photos:
 - /assets/images/gallery/2017-10-5-1.jpg
 - /assets/images/gallery/2017-10-5-2.jpg
 - /assets/images/gallery/2017-10-5-3.jpg
-- /assets/images/gallery/2017-10-5-1.jpg
-- /assets/images/gallery/2017-10-5-2.jpg
-- /assets/images/gallery/2017-10-5-3.jpg
+- /assets/images/gallery/2017-10-5-4.jpg
+- /assets/images/gallery/2017-10-5-5.jpg
+- /assets/images/gallery/2017-10-5-6.jpg
 tags:
 - 时光
 - 博物
